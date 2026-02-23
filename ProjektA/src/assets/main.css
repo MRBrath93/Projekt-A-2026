@@ -1,0 +1,14 @@
+@import './base.css';
+
+
+.wrap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0 2rem;
+  gap: 3rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+}
